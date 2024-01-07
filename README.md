@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Happy Yama</h1>
 <h3 align="center">Passionate Full Stack Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milesdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="milesdaniel" /> </p>
@@ -60,13 +59,3 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milesdaniel&hide_progress=true&theme=highcontrast" alt=milesdaniel />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=milesdaniel&show_icons=true&locale=en&theme=" alt="milesdaniel" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/milesdaniel">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=milesdaniel&theme=react" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milesdaniel&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milesdaniel&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=milesdaniel&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milesdaniel&theme=2077" height="180em" />
-</div>
