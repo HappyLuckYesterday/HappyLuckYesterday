@@ -74,4 +74,3 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milesdaniel&hide_progress=true&theme=highcontrast" alt=milesdaniel />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=milesdaniel&show_icons=true&locale=en&theme=" alt="milesdaniel" /></p>
