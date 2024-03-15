@@ -3,8 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milesdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="milesdaniel" /> </p>
 
 
-- 📫 How to reach me **milesdanieldragon@gmail.com**
-
 <div> <a href="https://github.com/milesdaniel" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:milesdanieldragon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
