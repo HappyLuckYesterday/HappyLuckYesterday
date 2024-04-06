@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Happy Yama</h1>
-<h3 align="center">Passionate Full Stack Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Happy </h1>
+<h3 align="center">Passionate Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milesdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="milesdaniel" /> </p>
 
 
