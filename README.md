@@ -2,7 +2,7 @@
 <h3 align="center">Senior Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milesdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="milesdaniel" /> </p>
 
-<p><p style="font-weight:bold;font-size:55px;">H</p>ere is a tribute, to a professional deserving.</p>
+<p><b style="font-weight:bold;font-size:55px;">H</b>ere is a tribute, to a professional deserving.</p>
 <p>As a Senior Full Stack Developer, you have proven yourself through the years.</p>
 <p>Project after project, you provide technical solutions that surpass expectations.</p>
 <p>Programming languages, frameworks, and databases - you are a Master of them all.</p>
