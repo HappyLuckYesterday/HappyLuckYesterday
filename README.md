@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Happy </h1>
 <h1 align="center">🔥Senior Full Stack Developer</h1>
-<p align="left"> <img src="https://drive.google.com/file/d/1PIOZ4pg1rNrE66gyirqtOkgNhzUHhRoy/view" alt="milesdaniel" /> </p>
+<p align="left"> [![](https://visitcount.itsvg.in/api?id=happyyama&icon=0&color=0)](https://visitcount.itsvg.in) </p>
 
 <img src="https://drive.google.com/file/d/1PIOZ4pg1rNrE66gyirqtOkgNhzUHhRoy/view?usp=sharing" alt="Atom" width="180" height="180"/>
 <h1 align="left">About Me:</h1>
