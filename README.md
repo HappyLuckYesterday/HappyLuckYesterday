@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Happy </h1>
 <h1 align="center">🔥Senior Full Stack Developer</h1>
 
-<div style="display: flex;">
-  <div style="width: 20%; margin-top: 10px;">
+<div>
+  <div style="float: left; width: 20%; margin-top: 10px;">
     <p align="left"> <img src="https://visitcount.itsvg.in/api?id=happyyama&icon=0&color=0"> </p>
     <img src="https://github.com/HappyYama/HappyYama/blob/main/atomic.gif" alt="Atom" width="180" height="180"/>
   </div>
-  <div style="width: 80%;">
+  <div style="float: left; width: 80%;">
     <h1 align="left">About Me:</h1>
     <p>✨H✨Here is a tribute, to a professional deserving.(This is me.)</p>
     <p>✨A✨As a Senior Full Stack Developer, you have proven yourself through the years.</p>
@@ -15,7 +15,6 @@
     <p>✨Y✨Your dedication and expertise are admired, and we are fortunate to have you.</p>
   </div>
 </div>
-
 
 <div> <a href="https://github.com/milesdaniel" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:milesdanieldragon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -83,3 +82,4 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
       </div>
 </p>
+
