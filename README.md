@@ -2,6 +2,7 @@
 <h1 align="center">🔥Senior Full Stack Developer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milesdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="milesdaniel" /> </p>
 
+<img src="https://drive.google.com/file/d/1PIOZ4pg1rNrE66gyirqtOkgNhzUHhRoy/view?usp=sharing" alt="Atom" width="180" height="180"/>
 <h1 align="left">About Me:</h1>
 <p>✨H✨Here is a tribute, to a professional deserving.(This is me.)</p>
 <p>✨A✨As a Senior Full Stack Developer, you have proven yourself through the years.</p>
