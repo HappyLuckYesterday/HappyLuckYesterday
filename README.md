@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Happy </h1>
-<h3 align="center">Senior Full Stack Developer</h3>
+<h1 align="center">🔥Senior Full Stack Developer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milesdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="milesdaniel" /> </p>
 
 <p>✨H✨Here is a tribute, to a professional deserving.(This is me.)</p>
@@ -10,7 +10,7 @@
 
 <div> <a href="https://github.com/milesdaniel" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:milesdanieldragon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Languages and Tools:</h3>
+</div><h1 align="left">Languages and Tools:</h1>
 <p align="left">
 <h2 font-weight="bold">Programming Language</h2>
   <div align="left">
