@@ -2,9 +2,9 @@
 <h1 align="center">🔥Senior Full Stack Developer</h1>
 
 <div>
-    <img src="https://komarev.com/ghpvc/?username=happyluckyesterday" alt="darkcoderse" />
+    <img src="https://komarev.com/ghpvc/?username=happyyama" alt="darkcoderse" />
     <h1 align="left">About Me:</h1>
-    <img align="right"  src="https://github.com/HappyYama/HappyYama/blob/main/atomic.gif" alt="Atom" width="180" height="180"/>
+    <img align="right"  src="https://github.com/HappyLuckYesterday/HappyLuckYesterday/blob/main/atomic.gif" alt="Atom" width="180" height="180"/>
     <p>✨H✨Here is a tribute, to a professional deserving.(This is me.)</p>
     <p>✨A✨As a Senior Full Stack Developer, you have proven yourself through the years.</p>
     <p>✨P✨Project after project, you provide technical solutions that surpass expectations.</p>
