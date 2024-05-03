@@ -12,7 +12,7 @@
     <p>✨Y✨Your dedication and expertise are admired, and we are fortunate to have you.</p>
 </div>
 
-<div> <a href="https://github.com/milesdaniel" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div> <a href="https://github.com/happyluckyesterday" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:milesdanieldragon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <h1 align="left">Languages and Tools:</h1>
